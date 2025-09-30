@@ -28,3 +28,33 @@ Gathers requirements from stakeholders, analyzes business needs, and translates 
 
 ---
 Each role collaborates to deliver a high-quality, reliable, and user-friendly product.
+
+## Technology Stack
+
+### Backend Technologies
+- **Django**: A high-level Python web framework for building robust and scalable web applications. Used for creating RESTful APIs and handling server-side logic.
+- **PostgreSQL**: A powerful, open-source relational database system. Used for storing and managing application data with support for complex queries and data integrity.
+- **GraphQL**: A query language and runtime for APIs that provides efficient data fetching. Enables clients to request exactly the data they need.
+
+### Frontend Technologies
+- **React**: A JavaScript library for building user interfaces. Used for creating dynamic and interactive frontend components.
+- **HTML/CSS**: Markup and styling languages for structuring and designing web pages.
+- **JavaScript/TypeScript**: Programming languages for adding interactivity and type safety to the frontend application.
+
+### Development & Deployment Tools
+- **Git**: Version control system for tracking changes and collaborating on code.
+- **Docker**: Containerization platform for packaging applications and their dependencies.
+- **AWS/Heroku**: Cloud platforms for hosting and deploying the application.
+- **Redis**: In-memory data structure store used for caching and session management.
+
+### Testing & Quality Assurance
+- **Jest**: JavaScript testing framework for unit and integration testing.
+- **PyTest**: Testing framework for Python backend code.
+- **Selenium**: Web browser automation tool for end-to-end testing.
+
+### Communication & API
+- **WebSockets**: Real-time communication protocol for instant messaging and notifications.
+- **REST API**: Architectural style for designing networked applications and web services.
+
+---
+This technology stack ensures a robust, scalable, and maintainable application architecture.

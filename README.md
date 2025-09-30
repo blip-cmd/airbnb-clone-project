@@ -140,3 +140,34 @@ Represents financial transactions for bookings.
 
 ---
 This database design supports the core functionality while maintaining flexibility for future enhancements.
+
+## Feature Breakdown
+
+This section outlines the main features of our Airbnb clone project, each designed to provide a comprehensive short-term rental platform experience.
+
+### 1. User Management
+Handles user registration, authentication, and profile management for both guests and hosts. Users can create accounts, verify their identity, manage personal information, and switch between guest and host roles. This feature forms the foundation of the platform by ensuring secure access and personalized experiences for all users.
+
+### 2. Property Management
+Enables hosts to list, edit, and manage their rental properties on the platform. Hosts can upload property photos, set descriptions, define amenities, manage pricing, and control availability calendars. This feature is crucial for building the inventory of available accommodations and giving hosts full control over their listings.
+
+### 3. Search and Discovery
+Provides guests with powerful search capabilities to find properties based on location, dates, price range, and specific amenities. The system includes filtering options, map integration, and intelligent recommendations to help users discover properties that match their needs. This feature enhances user experience by making property discovery intuitive and efficient.
+
+### 4. Booking System
+Manages the entire reservation process from initial booking requests to confirmation and check-in. The system handles date availability checking, instant bookings, host approval workflows, and booking modifications or cancellations. This core feature facilitates the primary transaction between guests and hosts while ensuring smooth communication throughout the process.
+
+### 5. Payment Processing
+Securely handles all financial transactions including booking payments, security deposits, and host payouts. The system integrates with payment gateways to process credit cards, digital wallets, and other payment methods while ensuring PCI compliance. This feature builds trust by providing secure, reliable payment processing with proper fund escrow and dispute resolution capabilities.
+
+### 6. Review and Rating System
+Allows guests and hosts to leave reviews and ratings after completed stays, building trust and transparency within the community. The system supports bidirectional reviews, rating aggregation, and review moderation to maintain quality standards. This feature enhances credibility and helps users make informed decisions based on authentic feedback from previous experiences.
+
+### 7. Communication System
+Facilitates secure messaging between guests and hosts throughout the booking process and stay duration. The system includes real-time chat, notification management, and automated messaging for booking confirmations and reminders. This feature ensures clear communication while maintaining user privacy and platform oversight.
+
+### 8. Admin Dashboard
+Provides platform administrators with comprehensive tools to manage users, properties, bookings, and platform analytics. The dashboard includes user verification, content moderation, dispute resolution, and financial reporting capabilities. This feature ensures platform integrity and provides operational oversight for business management and growth.
+
+---
+Each feature is designed to work seamlessly together, creating a complete and user-friendly rental platform experience.
